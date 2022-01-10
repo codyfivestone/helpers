@@ -1,4 +1,4 @@
-export const tiny = (string: string) => {
-  return string.replace(/\s/g, '');
+export const noSpaces = (s: string) => {
+  return s.replace(/\s/g, '');
 }
 
