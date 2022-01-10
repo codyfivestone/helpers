@@ -1,0 +1,14 @@
+{
+  "name": "@codyparnell.eth/helpers",
+  "version": "1.0.0",
+  "description": "Collection of Helper Functions",
+  "license": "MIT",
+  "repository": "bamblehorse/tiny",
+  "main": "index.js",
+  "keywords": [
+    "helpers"
+  ],
+  "dependencies": {
+    "@types/node": "^17.0.8"
+  }
+}
