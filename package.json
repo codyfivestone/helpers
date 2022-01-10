@@ -1,6 +1,6 @@
 {
   "name": "@codyparnell.eth/helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of Helper Functions",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
