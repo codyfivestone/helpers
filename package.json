@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "test": "jest --config jestconfig.json",
+    "test": "",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "tslint -p tsconfig.json",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/codyfivestone/helpers.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cody Parnell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/codyfivestone/helpers/issues"
