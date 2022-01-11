@@ -1,7 +1,7 @@
 // one liner helpers
-import {noSpace} from 'oneliners/noSpaces';
-import {cap} from 'oneliners/cap';
+import { noSpace } from 'oneliners/noSpaces';
+import { cap } from 'oneliners/cap';
 
 // hooks
 
-export {noSpace, cap}
+export { noSpace, cap };
